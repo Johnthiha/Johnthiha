@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 <!---
-JamrSoftDev/JameSoftDve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JameSoftDev/JameSoftDve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 This site can create an application 
